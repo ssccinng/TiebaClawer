@@ -1,0 +1,16 @@
+E:\vscode hub\TiebaClawer\bin\Debug\net6.0\TiebaClawer.exe
+E:\vscode hub\TiebaClawer\bin\Debug\net6.0\TiebaClawer.deps.json
+E:\vscode hub\TiebaClawer\bin\Debug\net6.0\TiebaClawer.runtimeconfig.json
+E:\vscode hub\TiebaClawer\bin\Debug\net6.0\TiebaClawer.dll
+E:\vscode hub\TiebaClawer\bin\Debug\net6.0\ref\TiebaClawer.dll
+E:\vscode hub\TiebaClawer\bin\Debug\net6.0\TiebaClawer.pdb
+E:\vscode hub\TiebaClawer\obj\Debug\net6.0\TiebaClawer.GlobalUsings.g.cs
+E:\vscode hub\TiebaClawer\obj\Debug\net6.0\TiebaClawer.csproj.AssemblyReference.cache
+E:\vscode hub\TiebaClawer\obj\Debug\net6.0\TiebaClawer.GeneratedMSBuildEditorConfig.editorconfig
+E:\vscode hub\TiebaClawer\obj\Debug\net6.0\TiebaClawer.AssemblyInfoInputs.cache
+E:\vscode hub\TiebaClawer\obj\Debug\net6.0\TiebaClawer.AssemblyInfo.cs
+E:\vscode hub\TiebaClawer\obj\Debug\net6.0\TiebaClawer.csproj.CoreCompileInputs.cache
+E:\vscode hub\TiebaClawer\obj\Debug\net6.0\TiebaClawer.dll
+E:\vscode hub\TiebaClawer\obj\Debug\net6.0\ref\TiebaClawer.dll
+E:\vscode hub\TiebaClawer\obj\Debug\net6.0\TiebaClawer.pdb
+E:\vscode hub\TiebaClawer\obj\Debug\net6.0\TiebaClawer.genruntimeconfig.cache
